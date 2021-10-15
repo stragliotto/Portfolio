@@ -1,5 +1,5 @@
 # portifolio
-Dev portifolio.
+Dev portifolio;
 
 ## Tarefas
 
